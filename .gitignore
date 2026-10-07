@@ -22,3 +22,6 @@ adk-python/
 REVIEW_NOTES.md
 
 *.code-workspace
+node_modules/*
+*.chat
+*checkpoint.ipynb
