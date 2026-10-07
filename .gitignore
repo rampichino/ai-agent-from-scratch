@@ -20,3 +20,5 @@ book/
 spec/
 adk-python/
 REVIEW_NOTES.md
+
+*.code-workspace
